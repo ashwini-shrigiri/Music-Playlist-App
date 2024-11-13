@@ -1,6 +1,6 @@
-# Music Streaming Webapp
+# Music Playlist App
 
-Welcome to the Music Streaming Webapp! This web application allows users to listen to their favorite songs without the need to download them. The application is built using HTML, CSS, JavaScript, and Bootstrap.
+Welcome to the Music Playlist App! This web application allows users to listen to their favorite songs without the need to download them. The application is built using HTML, CSS, JavaScript, and Bootstrap.
 
 ## Features
 
@@ -29,4 +29,4 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Koushik00-tech/Music-Streaming-WebApp.git
+   git clone https://github.com/ashwini-shrigiri/Music-Playlist-App.git
